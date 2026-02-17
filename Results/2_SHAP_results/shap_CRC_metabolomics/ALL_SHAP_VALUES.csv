@@ -1,0 +1,114 @@
+feature,mean_abs_shap,selected,index_in_selected,config_name,model_name,original_f1,original_auc
+Histidine,1.30239892,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Glyceraldehyde,0.58589524,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Malonic Acid,0.53906703,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Maleic Acid,0.496855855,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Erythrose,0.338206589,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Glycerate,0.335160434,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+G16BP,0.297743738,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Hyppuric Acid,0.27024284,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+IMP,0.267452866,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+2-Aminoadipate,0.253739625,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Anthranilate,0.246730477,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Adenylosuccinate,0.242726505,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+gama-Aminobutyrate,0.238286451,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Linolenic Acid,0.232654959,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Glucoronate,0.227267593,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Hydroxyproline,0.214048818,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Methionine,0.208473623,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Glycocholate,0.202535555,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Epinephrine,0.194241658,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Glycochenodeoxycholate,0.18960391,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Linoleic Acid,0.176483959,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+PEP,0.169187188,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+DTMP,0.153084055,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Allantoin,0.151984274,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+OH-Phenylpyruvate,0.148921058,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Creatine,0.14470385,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Glutamic acid,0.144022614,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Pyruvate,0.128090516,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Alanine,0.125421241,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Arginine,0.113670707,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Aspartic Acid,0.113213398,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Adipic Acid,0.110538125,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Xanthine,0.099272646,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Taurine,0.095466077,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Margaric Acid,0.092729807,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Lysine,0.082862161,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+N-AcetylGlycine,0.06724152,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Homogentisate,0.054186281,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Xanthurenate,0.051833555,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Reduced glutatione,0.050280727,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Trimethylamine-N-oxide,0.05020152,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Proline,0.04969015,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+2-Deoxyuridine,0.049235862,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Oxalic Acid,0.047157031,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+4-Pyridoxic acid,0.047081538,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+L-Kynurenine,0.045057919,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Glutamine,0.044491526,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Glucose,0.043456759,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Citraconic Acid,0.043018319,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Cytosine,0.026219267,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Alpha-Ketoglutaric Acid,0.022096213,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Dimethylglycine,0.019090125,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Citrulline,0.016936423,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+MethylSuccinate,0.015330652,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+1-Methylhistamine,0.007882973,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Homovanilate,0.005933735,TRUE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Tryptophan,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Uridine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Acetoacetate,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Ornithine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Orotate,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Xanthosine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Oxaloacetate,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Valine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Pentothenate,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+5-Hydroxytryptophan,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Phenylalanine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Pyridoxal-5-P,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Propionate,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Threonine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Pyroglutamic Acid,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Urate,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Tyrosine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Salicylurate,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Acetylcholine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Serine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Shikimic Acid,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Sorbitol,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Succinate/Methylmalonate,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+3-Nitro-tyrosine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Niacinamide,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+D-Leucic Acid,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+N2_N2-Dimethylguanosine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Guanosine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+F16BP/F26BP,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Fructose,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Fumaric,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+D-GA3P/DHAP,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Cytidine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Cystine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Glutaric Acid,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Cystathionine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Cystamine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Glycerol-3-P,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Glycine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Creatinine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Guanidinoacetate,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Choline,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Aconitate,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Hypoxanthine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Carnitine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Biotin,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Inosine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Kynorenate,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+lactate,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Leucine/iso-Leucine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Betaine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Asparagine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+AMP,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Malate,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Aminoisobutyrate,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+Adenosine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
+1-Methyladenosine,0,FALSE,1,standard_random_forest_56f(50%)_NoBalance,XGBoost,0.677459944,0.889479638
