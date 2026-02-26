@@ -67,10 +67,11 @@ robustness-first-XAI-Gut-Liver/
 │   │   ├── figure4_Pathway.tif
 │   │   └── Figure5_Inference.tif
 │   └── Supplimentary/
-│       ├── S_figure1_feature_selection_snr.png
-│       ├── S_figure2_best_config_per_task.png
-│       ├── S_figure3_univariate_auc_distribution.png
-│       └── S_figure4_upset_plot.jpg
+│       ├── S_figure1_flowdiagram.png
+        ├── S_figure2_feature_selection_snr.png
+│       ├── S_figure3_best_config_per_task.png
+│       ├── S_figure4_univariate_auc_distribution.png
+│       └── S_figure5_upset_plot.jpg
 │
 ├── Results/
 │   ├── 1_Benchmarking/
