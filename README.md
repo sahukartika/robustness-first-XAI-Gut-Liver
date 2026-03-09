@@ -1,4 +1,4 @@
-# Robustness-First Machine Learning for Cross-Disease Gut Microbiome and Metabolomics Analysis
+# A robustness-first multi-omics framework for cross-disease inference in gut-associated disorders
 
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
 [![scikit-learn 1.7.2](https://img.shields.io/badge/scikit--learn-1.7.2-orange.svg)](https://scikit-learn.org/)
