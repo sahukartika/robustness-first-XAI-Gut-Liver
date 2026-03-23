@@ -1,8 +1,7 @@
-# A robustness-first multi-omics framework for cross-disease inference in gut-associated disorders
+# A Robustness-First Cross-Disease Framework Identifies a Universal Microbial Redox Axis and Disease-Specific Metabolic Divergence in Colorectal Cancer, Crohn's Disease, and Liver Cirrhosis
 
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
 [![scikit-learn 1.7.2](https://img.shields.io/badge/scikit--learn-1.7.2-orange.svg)](https://scikit-learn.org/)
-[![XGBoost 3.0.5](https://img.shields.io/badge/XGBoost-3.0.5-green.svg)](https://xgboost.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
